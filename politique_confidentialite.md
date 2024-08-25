@@ -72,8 +72,5 @@ Nous pouvons mettre à jour cette politique de confidentialité de temps à autr
 
 ## Contact
 
-Si vous avez des questions concernant cette politique de confidentialité ou vos données personnelles, veuillez nous contacter à l'adresse suivante : [votreadresseemail@example.com]
+Si vous avez des questions concernant cette politique de confidentialité ou vos données personnelles, veuillez nous contacter à l'adresse suivante : [wolverinex02@gmail.com]
 
----
-
-**URL de l’Engagement de confidentialité :** [Lien vers votre politique de confidentialité en ligne]
