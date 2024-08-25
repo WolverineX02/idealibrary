@@ -1,6 +1,6 @@
 # Politique de Confidentialité de IdeaLibrary
 
-Dernière mise à jour : [Date]
+Dernière mise à jour : 25/08/2024
 
 ## Introduction
 
